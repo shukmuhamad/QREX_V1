@@ -129,7 +129,7 @@
                                         </div><br>
                                     
                                         <div class="form-group">
-                                            <label>Inspection Date:</label><br>
+                                            <label>Inspection Date 1:</label><br>
                                             <input class="form-control" type="datetime-local" name="RecordCreatedDateTime" id="RecordCreatedDateTime" value="<?php echo date('Y-m-d\TH:i:s'); ?>">
                                         </div>
 
